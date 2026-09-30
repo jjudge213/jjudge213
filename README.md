@@ -1,64 +1,63 @@
 # Tactical Communications & Systems Integration
 
-U.S. Army veteran and hands-on technical builder focused on tactical radio systems, RF/electronics, IP networking, embedded systems, Linux troubleshooting, and precision mechanical work.
+U.S. Army veteran building a portfolio around tactical radio systems, RF/electronics, IP networking, embedded systems, Linux troubleshooting, and precision mechanical work.
 
-This GitHub profile is being organized as evidence behind a communications and field-service resume. The emphasis is practical systems integration: physical installation, cabling, RF testing, radio programming concepts, IP networking, software tooling, and fault isolation.
+The common thread is field systems integration: install the hardware, build or adapt the interface, configure the network, test the signal path, isolate the fault, and document the fix.
 
-## Current Portfolio Focus
+## Portfolio Focus
 
-- Tactical and digital radio systems
-- Harris XG-100M vehicle integration
-- RF, SDR, and antenna/feedline testing
-- TAK, Meshtastic, Reticulum, and radio-to-IP integration
-- Embedded electronics and interface design
-- Linux/network field troubleshooting
-- CNC, fabrication, and mechanical process work
+- Tactical and digital radio systems, including P25-oriented lab work
+- Harris XG-100M vehicle integration and radio accessory testing
+- RF, SDR, antenna, feedline, and spectrum-analysis experiments
+- TAK, Meshtastic, Reticulum, CoT, and radio-to-IP integration
+- Embedded electronics, board-level investigation, and interface design
+- Linux, networking, remote administration, and service recovery
+- CNC, fabrication, 3D printing, and mechanical troubleshooting
 
-## Featured Work
+## Featured Projects
 
-### Tactical Radio Systems Lab
+### [Harris XG-100M Vehicle Integration](https://github.com/jjudge213/harris-xg100m-vehicle-integration)
 
-P25/tactical radio experience, radio accessory testing, programming workflow concepts, cable/interface work, and sanitized troubleshooting notes.
+Vehicle-mounted communications equipment integration: mounting, center-console speaker/audio work, cable and connector planning, power/interface considerations, and installation troubleshooting.
 
-### Harris XG-100M Vehicle Integration
+### [Tactical Radio Systems Lab](https://github.com/jjudge213/tactical-radio-systems-lab)
 
-Vehicle-mounted communications equipment integration, center-console speaker/audio work, mounting and fabrication considerations, power/interface planning, and test notes.
+Tactical and digital radio evidence: P25 systems, Motorola/Harris/EFJohnson equipment, programming workflow concepts, radio accessory testing, sanitized troubleshooting notes, and cable/interface work.
 
-### RF SDR Test Lab
+### [Tactical Networking Integration](https://github.com/jjudge213/tactical-networking-integration)
 
-HackRF/RTL-SDR-class experimentation, drone RF/spectrum observations, P25 receiver work, portable RF setups, and antenna/feedline test documentation.
+TAK/CoT, PyTAK, Meshtastic, Reticulum/Dire Wolf, geospatial data integration, traffic-camera overlays, TLS/certificate workflows, and radio-to-IP experimentation.
 
-### Tactical Networking Integration
+### [RF SDR Test Lab](https://github.com/jjudge213/rf-sdr-test-lab)
 
-TAK/CoT, PyTAK, Meshtastic, Reticulum/Dire Wolf, traffic-camera/geospatial data integration, and radio-to-IP experimentation.
+HackRF/RTL-SDR-class experiments, P25 receiver work, drone RF observations, portable RF setups, spectrum analysis, and antenna/feedline test documentation.
 
-### Embedded Electronics Integration
+### [Embedded Electronics Integration](https://github.com/jjudge213/embedded-electronics-integration)
 
-M.2 HaLow adapter design work, MCU/interface planning, RS-485 reverse-engineering methodology, board-level investigation, and bench wiring examples.
+M.2 HaLow adapter design work, MCU/interface planning, RS-485 reverse-engineering methodology, board-level investigation, firmware-analysis notes, and bench wiring examples.
 
-### Field Systems Lab
+### [Field Systems Lab](https://github.com/jjudge213/field-systems-lab)
 
-Linux and network troubleshooting, vehicle compute experiments, service recovery notes, field kit organization, and practical fault-isolation case studies.
+Linux and network troubleshooting, vehicle compute experiments, service recovery notes, routed overlay networking, field kit organization, and practical fault-isolation case studies.
 
-### CNC Process And Integration Notes
+### [CNC Process and Integration Notes](https://github.com/jjudge213/cnc-process-and-integration-notes)
 
 CNC/router setup, CAD/CAM workflow, 3D printing, woodworking, forge/foundry work, and mechanical lessons relevant to communications equipment installation.
 
 ## Documentation Standard
 
-Each repository should make the engineering visible:
+Each project is being built around the same evidence pattern:
 
-- problem and constraints
-- hardware/software involved
-- design decisions
-- configuration approach
-- testing and validation
-- failure symptoms
-- investigation and diagnosis
-- corrective action
-- lessons learned
+1. Problem and constraints
+2. Hardware and software involved
+3. Design decisions
+4. Configuration or fabrication approach
+5. Testing and validation
+6. Failure symptoms
+7. Investigation and diagnosis
+8. Corrective action
+9. Lessons learned
 
 ## Publication Boundary
 
-Public examples are sanitized. This profile will not publish operational frequencies, encryption keys, key-fill material, proprietary radio codeplugs, private infrastructure details, credentials, private location data, or employer/customer proprietary material.
-
+Public examples are sanitized. This portfolio does not publish operational frequencies, encryption keys, key-fill material, proprietary radio codeplugs, restricted manuals, private infrastructure details, credentials, private location data, or employer/customer proprietary material.
