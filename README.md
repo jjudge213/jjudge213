@@ -16,6 +16,10 @@ The common thread is field systems integration: install the hardware, build or a
 
 ## Featured Projects
 
+### [Tactical Radio Systems Portfolio](https://github.com/jjudge213/tactical-radio-systems-portfolio)
+
+One-page index tying together the P25/IP lab, Harris vehicle integration work, and radio electronics interface projects as a public-safe tactical communications and RF systems integration portfolio.
+
 ### [Harris XG-100M Vehicle Integration](https://github.com/jjudge213/harris-xg100m-vehicle-integration)
 
 Vehicle-mounted communications equipment integration: mounting, center-console speaker/audio work, cable and connector planning, power/interface considerations, and installation troubleshooting.
